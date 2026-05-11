@@ -3,7 +3,7 @@
 <!-- Describe de forma clara y concisa qué cambios introduce este PR. 
      Explica el problema que resuelve y la solución implementada. -->
 
-**Ticket / Issue relacionado:** <!-- #123 o enlace al ticket (Jira, Linear, etc.) -->
+**Ticket / Issue relacionado:** <!-- Si aplica o existe un issue de GitHub, usa `Closes #123` para cerrarlo automáticamente al hacer merge. También podés agregar enlaces a Jira, Linear, etc. -->
 
 ## Tipo de cambio
 
